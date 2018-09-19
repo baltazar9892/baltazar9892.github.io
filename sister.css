@@ -1,0 +1,23 @@
+body{
+    background-image:url("img/sister.png");
+}
+
+h1{
+    text-align:center;
+    color: deeppink;
+}
+
+h2{
+    text-align:center;
+    color: darkviolet;
+}
+
+p{
+    text-align:center;
+    color: fuchsia;
+}
+#kidsfight{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
